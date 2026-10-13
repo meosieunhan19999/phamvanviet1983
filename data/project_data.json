@@ -1,0 +1,76 @@
+{
+  "projectInfo": {
+    "name": "Lắp máy biến áp thứ 2 TBA 220kV Cần Đước",
+    "investor": "EVNNPT / NPTPMB",
+    "location": "Xã Tân Trạch, Huyện Cần Đước, Tỉnh Long An",
+    "totalInvestment": "399.738 tỷ VNĐ",
+    "creditFund": "Seabank (280 tỷ VNĐ)"
+  },
+  "gpmb": {
+    "totalHouseholds": 18,
+    "handedOverHouseholds": 16,
+    "totalAreaM2": 12500,
+    "handedOverAreaM2": 11800,
+    "budgetVND": 45000000000,
+    "disbursedVND": 41200000000,
+    "items": [
+      {
+        "id": "MB-01",
+        "plot": "Thửa đất mở rộng trạm (Khu A)",
+        "owner": "Hộ dân / Đất công",
+        "area": 8500,
+        "status": "Đã bàn giao mặt bằng",
+        "progress": 100
+      },
+      {
+        "id": "MB-02",
+        "plot": "Hành lang đấu nối ngăn lộ E04, E05",
+        "owner": "Các hộ dọc tuyến 110kV",
+        "area": 4000,
+        "status": "Đang kiểm đếm & phê duyệt phương án",
+        "progress": 75
+      }
+    ]
+  },
+  "construction": {
+    "overallProgress": 65,
+    "tasks": [
+      {
+        "task": "Móng máy biến áp AT2 và móng trụ thiết bị",
+        "category": "Xây dựng",
+        "progress": 100,
+        "status": "Hoàn thành"
+      },
+      {
+        "task": "Xây dựng mương cáp, tường rào, hệ thống thoát nước",
+        "category": "Xây dựng",
+        "progress": 90,
+        "status": "Đang thi công"
+      },
+      {
+        "task": "Lắp đặt MBA 220kV thứ 2 và hệ thống làm mát",
+        "category": "Nhất thứ",
+        "progress": 70,
+        "status": "Đang lắp đặt"
+      },
+      {
+        "task": "Lắp đặt thiết bị ngăn lộ 110kV (E04, E05 / E01a, E01b)",
+        "category": "Nhất thứ",
+        "progress": 50,
+        "status": "Đang lắp đặt"
+      },
+      {
+        "task": "Hệ thống Tủ điều khiển, Bảo vệ, SCADA & Đo đếm",
+        "category": "Nhị thứ",
+        "progress": 40,
+        "status": "Kéo rải cáp & đấu nối"
+      },
+      {
+        "task": "Hệ thống PCCC máy biến áp & giàn phun sương",
+        "category": "PCCC",
+        "progress": 60,
+        "status": "Đang hoàn thiện đường ống"
+      }
+    ]
+  }
+}
